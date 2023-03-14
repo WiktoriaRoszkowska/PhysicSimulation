@@ -5,4 +5,5 @@ Użytkownik tworzy symuację 3d zjawiska działającego na ciało lub układ cia
 # Technologie:
 Python 3
 Blender
+
 https://github.com/WiktoriaRoszkowska/PhysicSimulation
