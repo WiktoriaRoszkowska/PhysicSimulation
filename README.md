@@ -9,4 +9,10 @@ Python API
 
 Blender
 
+MB-Lab 
+Charmorph 
+FaceBuilder
+Wolf Generators 
+Building Tools 
+
 https://github.com/WiktoriaRoszkowska/PhysicSimulation
