@@ -1,7 +1,8 @@
-# PhysicSimulation
-Program do wizualizacji zjawisk fizycznych przez animajcę 3d
+# Physical Simulation
+Program do wizualizacji zjawisk fizycznych przez animajcę 3D
+
 # Działanie 
-Użytkownik tworzy symuację 3d zjawiska działającego na ciało lub układ ciał, następnie ma możliwość modyfikacji właściwości obiektów zmieniając odpowiednie dane.
+Pomysł symulacji 3D brył przy użyciu podstawowych praw w dziedziny dynamiki i mechaniki, program ma służyć jako wirtualne laboratorium, za pomocą którego użytkownik ma możliwość badania zjawisk fizycznych, modykikując dane wielkości bądźn właściwości ciała np: prędkości, pęd, siły sprężyste.
 
 # Technologie:
 Python API
